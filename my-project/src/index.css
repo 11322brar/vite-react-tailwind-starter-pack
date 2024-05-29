@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+ 
+  background-color: #242424;
+
+  
+}
+
+p {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
